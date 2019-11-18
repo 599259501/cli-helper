@@ -1,0 +1,15 @@
+{
+  "name": "mini-cli",
+  "version": "1.0.0",
+  "description": "快速创建淘宝程序脚手架",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^4.0.1",
+    "globby": "^10.0.1"
+  }
+}
